@@ -1,3 +1,21 @@
+# ******fork note*****
+**这个 origin是fork的 https://github.com/i5g5vip/winXray-v3.6**
+
+  **抱歉,这个fork和源是相等的,应该可以直接使用**
+
+-------
+# **note end**
+---
+
+  
+
+
+
+
+
+
+
+
 [winXray 入门小技巧](./sub/introduce.md)   
 [winXray 相关视频列表](https://www.youtube.com/results?search_query=winXray)  
 [网络免费 vmess 服务器订阅链接](https://proxypool.ga/vmess/sub)   
