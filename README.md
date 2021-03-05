@@ -1,7 +1,11 @@
 # ******fork note*****
 **这个 origin是fork的 https://github.com/i5g5vip/winXray-v3.6**
 
+<<<<<<< HEAD
   **抱歉,这个fork和源是相等的,应该可以直接使用**
+=======
+  **存在私货,需要检查代码后使用.**
+>>>>>>> 52ec2ac958d7d3132025dd3b6685cdbf491107c3
 
 -------
 # **note end**
